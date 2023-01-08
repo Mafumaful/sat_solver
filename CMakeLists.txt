@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.12)
 
-project(bonus)
+project(satsolver)
 SET(CMAKE_BUILD_TYPE "Debug")
 
 # enable c++11 support
